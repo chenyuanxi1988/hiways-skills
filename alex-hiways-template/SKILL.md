@@ -9,7 +9,7 @@ repo: https://github.com/chenyuanxi1988/Skills
 
 > GitHub 仓库：[chenyuanxi1988/Skills](https://github.com/chenyuanxi1988/Skills/tree/main/alex-hiways-template)
 
-基于陈元熹律师团队实际交付的「唐锋能源临港项目法律服务方案」提取的正式法律文书格式标准。
+基于陈元熹律师团队实际交付的「某工程项目法律服务方案」提取的正式法律文书格式标准。
 
 ## 适用场景
 
