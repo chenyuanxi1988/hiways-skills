@@ -144,7 +144,7 @@ def add_cover_page(doc, title_lines, metadata):
       - 主题: LEFT-aligned, 12pt bold
       - Body content follows
 
-    title_lines: list of str (e.g., [' 工程项目', '法律服务方案'])
+    title_lines: list of str (e.g., ['某工程项目', '法律服务方案'])
     metadata: dict with keys: drafter, phone, email, recipient, date, subject
     """
     # ── Page 1: Cover ──
